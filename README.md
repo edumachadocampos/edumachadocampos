@@ -1,7 +1,8 @@
 # Olá, seja bem vindo!
-- Eu me chamo Eduardo, atualmente já trabalho desenvolvendo páginas web para clientes, estou estudando para trabalhar com dados e, como hobby, estudo pentest. 
+- Eu me chamo Eduardo, atualmente trabalho desenvolvendo páginas web para clientes. 
+- Estou estudando para trabalhar com dados, em breve colocarei alguns projetos na área. 
+- Nas horas vagas e, por enquanto, como hobby, estudo segurança da informação. 
 
-<python>
 
 <!---
 edumachadocampos/edumachadocampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
