@@ -1,9 +1,9 @@
 # Olá, seja bem vindo!
-- Eu me chamo Eduardo, desenvolvo páginas web para clientes. 
-- Estou estudando para trabalhar com dados, minha maior área de interesse é inteligência artificial. 
-- Nas horas vagas e, por enquanto, como hobby, estudo segurança da informação. 
+- Eu me chamo Eduardo, desenvolvo soluções web que agreguem valor para o negócio dos meus clientes. 
+- Estou estudando para trabalhar com dados, minha maior área de interesse é IA e machine learning. 
+- Nas horas vagas, como hobby, estudo cybersecurity e hacking. 
 
-
+##Tecnologias que domino
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50px">
 
 
