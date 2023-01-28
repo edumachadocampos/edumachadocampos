@@ -3,7 +3,7 @@
 - Estou estudando para trabalhar com dados, minha maior área de interesse é IA e machine learning. 
 - Nas horas vagas, como hobby, estudo cybersecurity e hacking. 
 
-##Tecnologias que domino
+## Tecnologias que domino
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50px">
 
