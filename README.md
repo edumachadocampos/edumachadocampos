@@ -1,13 +1,10 @@
 # Olá, seja bem vindo!
-- Eu me chamo Eduardo, desenvolvo soluções web que agreguem valor para o negócio dos meus clientes. 
-- Estou estudando para trabalhar com dados, minha maior área de interesse é IA e machine learning. 
+- Eu me chamo Eduardo, desenvolvo soluções web que agreguem valor para o negócio dos meus clientes.  
 - Nas horas vagas, como hobby, estudo cybersecurity e hacking. 
 
 ## Tecnologias que utilizo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50px">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="50px"/>
 
